@@ -1,7 +1,7 @@
 [
   {
-    "firstname": "Chidi",
-    "lastname": "Anagonye",
+    "firstname": "{{$randomFirstName}}",
+    "lastname": "{{$randomLastName}}",
     "totalprice": 111,
     "depositpaid": true,
     "checkin": "2024-12-28",
@@ -9,8 +9,8 @@
     "additionalneeds": "Breakfast"
   },
   {
-    "firstname": "Tahani",
-    "lastname": "Al-Jamil",
+    "firstname": "{{$randomFirstName}}",
+    "lastname": "{{$randomLastName}}",
     "totalprice": 105,
     "depositpaid": true,
     "checkin": "2024-01-31",
