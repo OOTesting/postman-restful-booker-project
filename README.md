@@ -4,7 +4,7 @@
 
 I undertook a project from Test automation university to create a postman collection for the restful booker api.
 
-In it, she introduces API testing basics, [Postman](https://www.getpostman.com/), the [Restful Booker API](https://restful-booker.herokuapp.com/) and [Newman](https://github.com/postmanlabs/newman). 
+Introduces API testing basics, [Postman](https://www.getpostman.com/), the [Restful Booker API](https://restful-booker.herokuapp.com/) and [Newman](https://github.com/postmanlabs/newman). 
 
 I set up this repo as a place to store my  work and document my progress. 
 
