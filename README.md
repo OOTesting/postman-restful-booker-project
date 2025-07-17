@@ -1,16 +1,12 @@
-# Postman demo with restful-booker
+# Postman project with restful-booker
 
 ## Background
 
-I took a great, free online course by Amber Race [(@ambertests)](https://twitter.com/ambertests) through [Test Automation University](https://testautomationu.applitools.com/) by Applitools:
+I undertook a project from Test automation university to create a postman collection for the restful booker api.
 
-[Exploring Service APIs through Test Automation](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/)
+In it, she introduces API testing basics, [Postman](https://www.getpostman.com/), the [Restful Booker API](https://restful-booker.herokuapp.com/) and [Newman](https://github.com/postmanlabs/newman). 
 
-In it, she introduces API testing basics, [Postman](https://www.getpostman.com/), the [Restful Booker API](https://restful-booker.herokuapp.com/) and [Newman](https://github.com/postmanlabs/newman). Her course inspired me to explore each of these and learn more about API testing.
-
-I set up this repo as a place to store my study work and document for myself what I've learned so far. If you're also new to API testing and find something in here that helps you get started, right on! My corresponding Postman Workspace is publically available at: [Restful Booker on Postman](https://www.postman.com/joannalaine/workspace/restful-booker)
-
-Note: I've done all of my work on a Mac, so you will see Mac-specific references here and there.
+I set up this repo as a place to store my  work and document my progress. 
 
 ## Repo Structure
 
@@ -32,8 +28,8 @@ Note: I've done all of my work on a Mac, so you will see Mac-specific references
   - This API is deployed publicly and testing against the live version is welcomed.
   - However, I recommend installing and running the API from your machine for a few reasons:
     - You'll get to see the activity logging
-    - You won't have to worry about the API being inaccessible due to maintenance or network issues
-    - You'll be guaranteed to be the only person touching your data
+    - You won't have to worry about the API being inaccessible      
+- Install [NodeJS](https://nodejs.org/en/download)
 - Install [Newman](https://github.com/postmanlabs/newman)
 - Install [newman-reporter-htmlextra](https://github.com/DannyDainton/newman-reporter-htmlextra)
 
